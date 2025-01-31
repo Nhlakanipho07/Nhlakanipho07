@@ -1,6 +1,6 @@
 # About me
 
-- 🔭 I’m currently working on becoming a data engineer....
+- 🔭 I’m a Data engineer and python developer in the making.
 - 🌱 I’m currently working on my portfolio.
 - 👯 I’m looking to collaborate on python projects.
 - 🤔 I’m looking for help with getting a job.
