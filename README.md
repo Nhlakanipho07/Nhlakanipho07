@@ -4,4 +4,4 @@
 - 🌱 I’m currently working on my portfolio.
 - 👯 I’m looking to collaborate on python projects.
 - 🤔 I’m looking for help with getting a job.
-- 😄 Pronouns: he and him.
+- 😄 Want to know more? Checkout my portfolio: https://nhlakanipho07.github.io/about_nhlakanipho.html
