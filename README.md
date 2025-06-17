@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with getting a job.
 - 😄 Want to know more? Checkout my portfolios
   - Data Engineering porfolio: https://nhlakanipho07.github.io/about_nhlakanipho.html
-  - Python Backend Developer portfolio: https://nhlakanipho07.github.io/Backend-Developer-Portfolio/about_nhlakanipho.html
+  - Freelance portfolio: https://nhlakanipho07.github.io/Backend-Developer-Portfolio/about_nhlakanipho.html
